@@ -66,8 +66,4 @@ Next Steps
 
 Read the README file in each of the subdirectories for more information about what goes in those directories.
 =======
-chef-test
-=========
-
-Test de recettes pour Chef
 >>>>>>> 97f84669ddafd0574d06c1fa558de7119bcccdcb
